@@ -24,9 +24,4 @@
     "target_path": "hardware/qcom/display",
     "branch": "kk"
   },
-  {
-    "repository": "STS-Dev-Team/platform_hardware_qcom_media",
-    "target_path": "hardware/qcom/media",
-    "branch": "kk"
-  }
 ]
