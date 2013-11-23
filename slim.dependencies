@@ -1,33 +1,32 @@
 [
   {
-    "repository": "SlimRoms/device_motorola_msm8960-common",
+    "repository": "razrqcom-dev-team/android_device_motorola_msm8960-common",
     "target_path": "device/motorola/msm8960-common",
-    "branch": "jb4.3"
+    "branch": "kk"
   },
   {
-    "repository": "SlimRoms/device_motorola_qcom-common",
+    "repository": "razrqcom-dev-team/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "branch": "jb4.3"
+    "branch": "kk"
   },
   {
-    "repository": "SlimRoms/kernel_motorola_msm8960-common",
+    "repository": "razrqcom-dev-team/android_kernel_motorola_msm8960-common",
     "target_path": "kernel/motorola/msm8960-common",
-    "branch": "jb4.3"
+    "branch": "kk"
   },
   {
-    "repository": "SlimRoms/vendor_motorola",
+    "repository": "razrqcom_dev_team/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "jb4.3"
+    "branch": "kk"
   },
   {
-    "repository": "SlimRoms/hardware_qcom_audio-caf",
-    "target_path": "hardware/qcom/audio-caf",
-    "branch": "jb4.3"
+    "repository": "STS-Dev-Team/platform_hardware_qcom_display",
+    "target_path": "hardware/qcom/display",
+    "branch": "kk"
   },
   {
-    "repository": "SlimRoms/hardware_qcom_display-caf",
-    "target_path": "hardware/qcom/display-caf",
-    "branch": "jb4.3"
+    "repository": "STS-Dev-Team/platform_hardware_qcom_media",
+    "target_path": "hardware/qcom/media",
+    "branch": "kk"
   }
 ]
-
